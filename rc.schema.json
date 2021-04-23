@@ -236,9 +236,12 @@
 					"type": "string",
 					"enum": [
 						"Aligned Bible",
+						"Aramaic Grammar",
 						"Bible",
 						"Bible stories",
+						"Greek Grammar",
 						"Greek New Testament",
+						"Hebrew Grammar",
 						"Hebrew Old Testament",
 						"OBS Study Notes",
 						"OBS Study Questions",
