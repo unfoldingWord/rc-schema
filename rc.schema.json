@@ -206,7 +206,7 @@
 								"examples": [
 									"asv"
 								],
-								"pattern": "^[a-z][a-z0-9-]"
+								"pattern": "^[A-Za-z][A-Za-z0-9 -]"
 							},
 							"language": {
 								"$id": "#root/dublin_core/source/items/language",
