@@ -220,7 +220,7 @@
 							"version": {
 								"$id": "#root/dublin_core/source/items/version",
 								"title": "Version",
-								"type": "string",
+								"type": ["integer", "string"],
 								"default": "",
 								"examples": [
 									"1901"
@@ -288,7 +288,7 @@
 				"version": {
 					"$id": "#root/dublin_core/version",
 					"title": "Version",
-					"type": "string",
+					"type": ["integer", "string"],
 					"default": "",
 					"examples": [
 						"10"
