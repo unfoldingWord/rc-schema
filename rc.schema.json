@@ -49,7 +49,7 @@
 				"contributor": {
 					"$id": "#root/dublin_core/contributor",
 					"title": "Contributor",
-					"type": "array",
+					"type": ["array", "null"],
 					"default": [],
 					"items":{
 						"$id": "#root/dublin_core/contributor/items",
