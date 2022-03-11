@@ -1,7 +1,7 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema",
 	"$id": "https://github.com/unfoldingWord/rc-schema/edit/master/rc.schema.json",
-	"$$target": [a
+	"$$target": [
 			"rc.schema.json#/definitions/languageTag",
 			"rc.schema.json#/definitions/localizedText"
 	],
