@@ -540,7 +540,13 @@
 				"translate",
 				"checking",
 				"bible",
-				"content"
+				"content",
+				"ugl",
+				"uhal",
+				"ggl",
+				"ghal",
+				"ugg",
+				"uhg"
 			]
 		},
 		"relationItem": {
